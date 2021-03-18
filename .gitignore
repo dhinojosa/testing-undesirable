@@ -185,3 +185,8 @@ tags
 # Persistent undo
 [._]*.un~
 
+.classpath
+.idea
+.project
+.settings
+testing-undesirable.iml
